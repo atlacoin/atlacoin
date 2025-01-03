@@ -8,7 +8,7 @@ Atlacoin [ATLA]
 
 **Become an Avatarian to get free Atlacoins for staking and let your portfolio achieve inner balance.**
 
-| [X (Twitter)](https://x.com/atlacoin) | [Discord](https://discord.gg/3hWQduVRtD) | [Reddit](https://www.reddit.com/r/atlacoin) |
+| [X (Twitter)](https://x.com/atlacoin) | [Discord](https://dsc.gg/atlacoin) | [Reddit](https://www.reddit.com/r/atlacoin) |
 
 What is Atlacoin Core?
 ----------------
